@@ -1,0 +1,142 @@
+[
+   {
+       "id": 239096,
+       "login": "user82788",
+       "password": "psw245",
+       "gender": "F",
+       "salary": 2836.61
+   },
+   {
+       "id": 567810,
+       "login": "user34112",
+       "password": "psw936",
+       "gender": "F",
+       "salary": 5288.20
+   },
+   {
+       "id": 544696,
+       "login": "user32548",
+       "password": "psw441",
+       "gender": "M",
+       "salary": 7214.18
+   },
+   {
+       "id": 443222,
+       "login": "user72364",
+       "password": "psw109",
+       "gender": "U",
+       "salary": 5565.14
+   },
+   {
+       "id": 918756,
+       "login": "user83180",
+       "password": "psw475",
+       "gender": "M",
+       "salary": 9317.93
+   },
+   {
+       "id": 731028,
+       "login": "user86591",
+       "password": "psw214",
+       "gender": "M",
+       "salary": 7628.37
+   },
+   {
+       "id": 453795,
+       "login": "user46078",
+       "password": "psw919",
+       "gender": "F",
+       "salary": 3018.35
+   },
+   {
+       "id": 686665,
+       "login": "user50303",
+       "password": "psw630",
+       "gender": "U",
+       "salary": 5130.31
+   },
+   {
+       "id": 129036,
+       "login": "user85141",
+       "password": "psw203",
+       "gender": "M",
+       "salary": 2352.62
+   },
+   {
+       "id": 272679,
+       "login": "user53633",
+       "password": "psw389",
+       "gender": "M",
+       "salary": 6035.01
+   },
+   {
+       "id": 291850,
+       "login": "user53525",
+       "password": "psw637",
+       "gender": "M",
+       "salary": 8377.74
+   },
+   {
+       "id": 358863,
+       "login": "user55374",
+       "password": "psw799",
+       "gender": "M",
+       "salary": 3980.19
+   },
+   {
+       "id": 958271,
+       "login": "user17820",
+       "password": "psw967",
+       "gender": "U",
+       "salary": 6546.83
+   },
+   {
+       "id": 265679,
+       "login": "user97155",
+       "password": "psw975",
+       "gender": "M",
+       "salary": 2674.96
+   },
+   {
+       "id": 507372,
+       "login": "user73265",
+       "password": "psw192",
+       "gender": "M",
+       "salary": 5822.34
+   },
+   {
+       "id": 298961,
+       "login": "user85268",
+       "password": "psw542",
+       "gender": "M",
+       "salary": 5338.51
+   },
+   {
+       "id": 987618,
+       "login": "user79632",
+       "password": "psw981",
+       "gender": "U",
+       "salary": 8930.67
+   },
+   {
+       "id": 743701,
+       "login": "user74611",
+       "password": "psw915",
+       "gender": "U",
+       "salary": 8708.89
+   },
+   {
+       "id": 309861,
+       "login": "user48238",
+       "password": "psw241",
+       "gender": "M",
+       "salary": 7435.64
+   },
+   {
+       "id": 212327,
+       "login": "user12322",
+       "password": "psw611",
+       "gender": "U",
+       "salary": 8816.47
+   }
+]

@@ -11,7 +11,6 @@ int main(void) {
 
     int tusp = 0, texterno = 0;
     while(fgets(buffer, sizeof(buffer), stdin)) {
-        int len = strlen(buffer);
 
         int count = 0;
 

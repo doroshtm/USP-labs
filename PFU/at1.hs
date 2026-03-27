@@ -1,4 +1,3 @@
-import Distribution.Simple.Setup (falseArg)
 main :: IO ()
 main = do
     a <- readLn

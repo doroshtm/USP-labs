@@ -1,6 +1,6 @@
-Pasta para projetos menore e atividades realizadas durante o curso de Ciências da Computação no ICMC, USP.
+Pasta para projetos menores e atividades realizadas durante o curso de Ciências da Computação no ICMC, USP.
 
-AEE: pasta para atividades e trabalhos de Algoritmos e Estrutura de Dados, disciplina do 2° semestre.
+AEE: pasta para as atividades e trabalhos de Algoritmos e Estrutura de Dados, disciplina do 2° semestre.
 
 FIS: pasta para as atividades de Física, disciplina do 2° semestre.
 
